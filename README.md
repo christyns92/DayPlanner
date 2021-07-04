@@ -13,7 +13,8 @@ Step 3. As the day goes by, the color will change to display events in your plan
 
 ## Demonstration
 Scheduler with saved inputs
-![Screenshot (153)](https://user-images.githubusercontent.com/81654878/124338948-4ecfe680-db70-11eb-8aca-3309b0d141b8.png)
+![Screenshot (156)](https://user-images.githubusercontent.com/81654878/124373597-2cfe5e80-dc59-11eb-9f9b-6ff12ca7f2df.png)
+
 
 
 Inputs save on the page as well as local storage
